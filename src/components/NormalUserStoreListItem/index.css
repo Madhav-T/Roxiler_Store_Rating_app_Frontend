@@ -1,0 +1,14 @@
+.store-list-item {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .store-list-item {
+        width: 32%;
+        margin-right: 1.33%;
+    }
+}
